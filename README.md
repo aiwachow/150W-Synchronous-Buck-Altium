@@ -27,7 +27,6 @@ Electrical characteristics and parameters:
 However, no other errors were detected so finall test will be carried out when new inductor arrive.  <br /> **In addition, pcb and gerber files will be made available when the power supply is 100% working**
 
 ![buck](https://github.com/aiwachow/150W-Synchronous-Buck-Altium/assets/92248273/d7341044-4008-4a80-8980-198ea7fe8f3c)
-![back_dcdc](https://github.com/aiwachow/150W-Synchronous-Buck-Altium/assets/92248273/e6e0e93c-4f15-4419-ad93-f9781fc97ee7)
 
 
 
